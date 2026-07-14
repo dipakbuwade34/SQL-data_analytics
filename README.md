@@ -1,4 +1,4 @@
-# SQL Practice & Mini Project
+# SQL Data Analysis project
 
 ## 📌 About
 This repository contains my SQL practice queries and a beginner-level SQL project. I created this project to improve my SQL skills for Data Analyst roles.
